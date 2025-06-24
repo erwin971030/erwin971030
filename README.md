@@ -11,7 +11,7 @@ Soy **Desarrollador Full Stack** con pasión por crear aplicaciones eficientes, 
 
 #### 🧠 Backend
 - Node.js · NestJS · Express · .NET Core (Web API) · Laravel (básico)  
-- PostgreSQL · MongoDB · REST APIs
+- PostgreSQL · MongoDB · REST APIs, Supabase, SQL Server, MySql
 
 #### 🧰 DevOps y Herramientas
 - Git · GitHub · GitLab  
