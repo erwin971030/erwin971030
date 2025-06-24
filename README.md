@@ -1,16 +1,27 @@
-### Hi there 👋
+## 👋 Hola, soy Erwin
 
-<!--
-**erwin971030/erwin971030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy **Desarrollador Full Stack** con pasión por crear aplicaciones eficientes, escalables y centradas en la experiencia del usuario. Me especializo en construir soluciones robustas de extremo a extremo, utilizando tecnologías modernas como **Node.js**, **NestJS**, **.NET Core**, **React**, **Angular** y **Supabase**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tecnologías que uso frecuentemente
+
+#### 👨‍💻 Frontend
+- React · Next.js · Angular · React Native · TailwindCSS
+
+#### 🧠 Backend
+- Node.js · NestJS · Express · .NET Core (Web API) · Laravel (básico)  
+- PostgreSQL · MongoDB · REST APIs
+
+#### 🧰 DevOps y Herramientas
+- Git · GitHub · GitLab  
+- Azure DevOps · Azure Portal  
+- CI/CD Pipelines · Docker · Postman · VSCode · Figma
+
+### 📫 ¿Quieres contactarme?
+- 📧 **Correo:** tu.email@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/erwin-mario-leon-ramos-711716203/)  
+
+---
+
+> Siempre abierto a nuevos retos, colaboraciones y oportunidades para seguir creando software que genere impacto 🚀
