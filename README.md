@@ -20,7 +20,7 @@ Soy **Desarrollador Full Stack** con pasión por crear aplicaciones eficientes, 
 
 ### 📫 ¿Quieres contactarme?
 - 📧 **Correo:** erwinmarioleonramos@gmail.com  
-- 💼 [LinkedIn] https://www.linkedin.com/in/erwin-mario-leon-ramos-711716203/  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/erwin-mario-leon-ramos-711716203/  
 
 ---
 
