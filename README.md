@@ -1,6 +1,6 @@
 ## 👋 Hola, soy Erwin
 
-Soy **Desarrollador Full Stack** con pasión por crear aplicaciones eficientes, escalables y centradas en la experiencia del usuario. Me especializo en construir soluciones robustas de extremo a extremo, utilizando tecnologías modernas como **Node.js**, **NestJS**, **.NET Core**, **React**, **Angular** y **Supabase**.
+Soy **Desarrollador Full Stack** con pasión por crear aplicaciones eficientes, escalables y centradas en la experiencia del usuario. Me especializo en construir soluciones robustas de extremo a extremo, utilizando tecnologías modernas como **Node.js**, **NestJS**, **.NET Core**, **React**, **Angular**, **Reactjs** y **Nextjs**.
 
 ---
 
